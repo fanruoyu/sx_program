@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "list": [
+        {
+            "userName": "adnim",
+            "userPwd": "12345",
+            "authorization": "adnim"
+        },
+        {
+            "userName": "adnims",
+            "userPwd": "12345"
+        },
+        {
+            "userName": "admin",
+            "userPwd": "123456",
+            "authorization": "admin"
+        }
+    ]
+}
